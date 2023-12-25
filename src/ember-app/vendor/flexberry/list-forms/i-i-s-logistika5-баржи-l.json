@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika5-баржи-e",
+  "editForm": "i-i-s-logistika5-баржи-e",
+  "external": false,
+  "caption": "Баржи",
+  "name": "IISLogistika5БаржиL",
+  "className": "БаржиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika5-баржи",
+      "modelProjection": "БаржиL"
+    }
+  ]
+}

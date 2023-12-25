@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Контейнеры",
+  "name": "IISLogistika5КонтейнерыE",
+  "className": "КонтейнерыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika5-контейнеры",
+      "modelProjection": "КонтейнерыE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-logistika5-загруз-контейн-e",
+  "editForm": "i-i-s-logistika5-загруз-контейн-e",
+  "external": false,
+  "caption": "Загрузка контейнеров",
+  "name": "IISLogistika5ЗагрузКонтейнL",
+  "className": "ЗагрузКонтейнL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika5-загруз-контейн",
+      "modelProjection": "ЗагрузКонтейнL"
+    }
+  ]
+}

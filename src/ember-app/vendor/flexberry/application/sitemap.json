@@ -1,0 +1,85 @@
+﻿{
+  "applicationCaption": "Логистика",
+  "applicationTitle": "Логистика",
+  "items": [
+    {
+      "link": null,
+      "menuName": "логистика",
+      "caption": "Логистика",
+      "title": "Логистика",
+      "children": [
+        {
+          "link": "i-i-s-logistika5-загруз-контейн-l",
+          "menuName": null,
+          "caption": "Загрузка контейнеров",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-докум-постав-l",
+          "menuName": null,
+          "caption": "Документ поставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-докум-результ-п-l",
+          "menuName": null,
+          "caption": "Документ результатов поставки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-организация-l",
+          "menuName": null,
+          "caption": "Организация",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-клиенты-l",
+          "menuName": null,
+          "caption": "Клиенты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-сотрудники-l",
+          "menuName": null,
+          "caption": "Сотрудники",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-баржи-l",
+          "menuName": null,
+          "caption": "Баржи",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-загрузка-баржи-l",
+          "menuName": null,
+          "caption": "Загрузка баржи",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-контейнеры-l",
+          "menuName": null,
+          "caption": "Контейнеры",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-logistika5-груз-l",
+          "menuName": null,
+          "caption": "Груз",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

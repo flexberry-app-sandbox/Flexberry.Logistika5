@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Сотрудники",
+  "name": "IISLogistika5СотрудникиE",
+  "className": "СотрудникиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-logistika5-сотрудники",
+      "modelProjection": "СотрудникиE"
+    }
+  ]
+}

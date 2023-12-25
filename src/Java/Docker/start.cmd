@@ -1,0 +1,1 @@
+docker-compose -p logistika5-java up -d
